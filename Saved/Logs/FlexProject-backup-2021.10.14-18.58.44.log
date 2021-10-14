@@ -1,0 +1,827 @@
+﻿Log file open, 10/14/21 18:57:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FlexProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1468718608) SRandInit(1468718608).
+LogInit: Read version file with build ID 'd8eccd21-2ca9-432d-a920-8ec535e5cc71'
+LogInit: Registered custom module enumerator with build ID 'd8eccd21-2ca9-432d-a920-8ec535e5cc71'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.743834
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/Binaries/Win64/UE4Editor-GoogleVRHMD.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVR.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVRInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-Flex.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-FlexEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 0).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin OSVR
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin Flex
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/GameWorks/Flex/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/GameWorks/Flex/Shaders to virtual directory /Plugin/Flex
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.209s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-A4JTMP4 (26.226.41.77:0)
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.19-CL-0
+LogInit: Engine Version: 4.19.2-0+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-0+++UE4+Release-4.19
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  5 2020 17:39:17
+LogInit: Compiled with Visual C++: 19.00.24234.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.10.14-16.57.44:377][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-16.57.44:377][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.14-16.57.44:386][  0]LogInit: Computer: DESKTOP-A4JTMP4
+[2021.10.14-16.57.44:386][  0]LogInit: User: Mika
+[2021.10.14-16.57.44:386][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.10.14-16.57.44:386][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.14-16.57.44:386][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.10.14-16.57.44:386][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.14-16.57.44:386][  0]LogMemory: Process Physical Memory: 281.99 MB used, 282.00 MB peak
+[2021.10.14-16.57.44:386][  0]LogMemory: Process Virtual Memory: 280.62 MB used, 280.62 MB peak
+[2021.10.14-16.57.44:386][  0]LogMemory: Physical Memory: 8750.39 MB used,  7581.95 MB free, 16332.34 MB total
+[2021.10.14-16.57.44:386][  0]LogMemory: Virtual Memory: 4855.80 MB used,  7581.95 MB free, 134217728.00 MB total
+[2021.10.14-16.57.44:425][  0]LogInit: Using OS detected language (en-US).
+[2021.10.14-16.57.44:425][  0]LogInit: Using OS detected locale (en-US).
+[2021.10.14-16.57.44:429][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.14-16.57.44:899][  0]LogStreaming: Display: Took  0.474s to EndInitTextLocalization.
+[2021.10.14-16.57.44:899][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.14-16.57.44:943][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.14-16.57.44:943][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.14-16.57.45:176][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.14-16.57.45:294][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2021.10.14-16.57.45:294][  0]LogD3D11RHI:       8079/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.10.14-16.57.45:296][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.14-16.57.45:296][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.14-16.57.45:296][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.14-16.57.45:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.14-16.57.45:303][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2021.10.14-16.57.45:303][  0]LogWindows: EnumDisplayDevices:
+[2021.10.14-16.57.45:304][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.10.14-16.57.45:304][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2021.10.14-16.57.45:304][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2021.10.14-16.57.45:304][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2021.10.14-16.57.45:304][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.10.14-16.57.45:304][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2021.10.14-16.57.45:304][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.10.14-16.57.45:304][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.10.14-16.57.45:304][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2021.10.14-16.57.45:405][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.10.14-16.57.45:405][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.10.14-16.57.45:405][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.14-16.57.45:419][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.10.14-16.57.45:499][  0]LogFlex: Display: Initialized Flex with GPU: NVIDIA GeForce GTX 1080
+[2021.10.14-16.57.45:499][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (../../../FlexProject/Intermediate/Shaders/WorkingDirectory/15148/).
+[2021.10.14-16.57.45:500][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mika/AppData/Local/Temp/UnrealShaderWorkingDir/46ABD26B45FE73116EC9258B075893A1/'.
+[2021.10.14-16.57.45:748][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.10.14-16.57.45:762][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.10.14-16.57.45:776][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.10.14-16.57.45:790][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.10.14-16.57.45:804][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.10.14-16.57.45:818][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.10.14-16.57.45:832][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.10.14-16.57.45:846][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.10.14-16.57.45:853][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.10.14-16.57.45:866][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2021.10.14-16.57.45:879][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2021.10.14-16.57.45:891][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2021.10.14-16.57.45:904][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2021.10.14-16.57.45:916][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2021.10.14-16.57.45:930][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2021.10.14-16.57.45:956][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2021.10.14-16.57.45:956][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2021.10.14-16.57.45:968][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.10.14-16.57.45:969][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.10.14-16.57.46:006][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.10.14-16.57.46:017][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.10.14-16.57.46:017][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.14-16.57.46:146][  0]LogXGEController: Cleaning working directory: C:/Users/Mika/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.14-16.57.46:146][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.14-16.57.46:146][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.14-16.57.46:146][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.14-16.57.46:946][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.14-16.57.47:009][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB ../../../FlexProject/DerivedDataCache/Boot.ddc.
+[2021.10.14-16.57.47:009][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../FlexProject/DerivedDataCache/Boot.ddc
+[2021.10.14-16.57.47:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../FlexProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.14-16.57.47:009][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.14-16.57.47:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.14-16.57.47:009][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2021.10.14-16.57.47:021][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2021.10.14-16.57.47:021][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.14-16.57.47:021][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.14-16.57.47:035][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.10.14-16.57.47:036][  0]LogSlate: Using Freetype 2.6.0
+[2021.10.14-16.57.47:036][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.14-16.57.47:036][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.14-16.57.47:165][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2021.10.14-16.57.47:511][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.14-16.57.47:690][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.14-16.57.47:690][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.10.14-16.57.47:690][  0]LogMeshReduction: No automatic mesh merging module available
+[2021.10.14-16.57.47:690][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.14-16.57.47:690][  0]LogMeshMerging: No automatic mesh merging module available
+[2021.10.14-16.57.47:690][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.14-16.57.47:731][  0]LogNetVersion: FlexProject , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2459518851)
+[2021.10.14-16.57.48:209][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.071072 seconds
+[2021.10.14-16.57.48:217][  0]LogUObjectArray: 37715 objects as part of root set at end of initial load.
+[2021.10.14-16.57.48:217][  0]LogUObjectAllocator: 7514704 out of 0 bytes used by permanent object pool.
+[2021.10.14-16.57.48:217][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.14-16.57.48:734][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2021.10.14-16.57.48:734][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2021.10.14-16.57.48:734][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:734][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:734][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:734][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:734][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2021.10.14-16.57.48:734][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2021.10.14-16.57.48:734][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:734][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2021.10.14-16.57.48:735][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:735][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2021.10.14-16.57.48:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2021.10.14-16.57.48:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2021.10.14-16.57.48:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2021.10.14-16.57.48:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2021.10.14-16.57.48:736][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2021.10.14-16.57.48:736][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:737][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2021.10.14-16.57.48:737][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.57.48:738][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2021.10.14-16.57.48:738][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2021.10.14-16.58.01:282][  0]OSVREntryPointLog: Display: OSVR client context could not connect. Most likely the server isn't running. Treating this as if the HMD is not connected.
+[2021.10.14-16.58.01:324][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.14-16.58.01:356][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.14-16.58.01:747][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.01:747][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.01:767][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.01:787][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.02:358][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.14-16.58.02:538][  0]LogOcInput: OculusInput pre-init called
+[2021.10.14-16.58.02:657][  0]LogEngine: Initializing Engine...
+[2021.10.14-16.58.02:667][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2021.10.14-16.58.02:667][  0]LogHMD: GoogleVR API created
+[2021.10.14-16.58.02:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.10.14-16.58.02:668][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.10.14-16.58.02:905][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.14-16.58.02:924][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek(R) Audio)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2021.10.14-16.58.02:937][  0]LogInit: FAudioDevice initialized.
+[2021.10.14-16.58.03:238][  0]LogDerivedDataCache: Saved boot cache 0.30s 76MB ../../../FlexProject/DerivedDataCache/Boot.ddc.
+[2021.10.14-16.58.03:248][  0]LogInit: Texture streaming: Enabled
+[2021.10.14-16.58.03:267][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.14-16.58.03:282][  0]LogInit: Transaction tracking system initialized
+[2021.10.14-16.58.03:311][  0]BlueprintLog: New page: Editor Load
+[2021.10.14-16.58.03:512][  0]LocalizationService: Localization service is disabled
+[2021.10.14-16.58.03:622][  0]LogConsoleResponse: Display: 
+[2021.10.14-16.58.03:770][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.10.14-16.58.03:770][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.14-16.58.03:770][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.10.14-16.58.03:770][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.10.14-16.58.03:770][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.10.14-16.58.04:203][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Content/' took 0.02s
+[2021.10.14-16.58.04:204][  0]SourceControl: Source control is disabled
+[2021.10.14-16.58.04:204][  0]Cmd: MAP LOAD FILE="../../../FlexProject/Content/Maps/testMaps/radforce-test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.14-16.58.04:204][  0]LightingResults: New page: Lighting Build
+[2021.10.14-16.58.04:207][  0]MapCheck: New page: Map Check
+[2021.10.14-16.58.04:207][  0]LightingResults: New page: Lighting Build
+[2021.10.14-16.58.04:388][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000192cbba47f0, Size=48, Default__radforce-test_C Function /Game/Maps/testMaps/radforce-test.radforce-test_C:ExecuteUbergraph_radforce-test
+[2021.10.14-16.58.04:390][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000192cbba47f0, Size=48
+[2021.10.14-16.58.04:390][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000192cbba47f0, Size=48, Default__radforce-test_C Function /Engine/Transient.REINST_radforce-test_C_6:ExecuteUbergraph_radforce-test
+[2021.10.14-16.58.04:392][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000192cbba53f0, Size=48, Default__radforce-test_C Function /Game/Maps/testMaps/radforce-test.radforce-test_C:ExecuteUbergraph_radforce-test
+[2021.10.14-16.58.04:644][  0]LogAIModule: Creating AISystem for world radforce-test
+[2021.10.14-16.58.04:679][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.14-16.58.04:688][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000192cbba47f0, Size=48
+[2021.10.14-16.58.04:689][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.14-16.58.04:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.706ms to complete.
+[2021.10.14-16.58.04:737][  0]LogFileHelpers: Loading map 'radforce-test' took 0.533
+[2021.10.14-16.58.04:907][  0]LogCollectionManager: Loaded 0 collections in 0.002161 seconds
+[2021.10.14-16.58.04:957][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Saved/Collections/' took 0.01s
+[2021.10.14-16.58.04:957][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Content/Developers/Mika/Collections/' took 0.01s
+[2021.10.14-16.58.04:957][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Content/Collections/' took 0.01s
+[2021.10.14-16.58.04:957][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.10.14-16.58.04:969][  0]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 2508 classes and 572 folders.
+[2021.10.14-16.58.04:977][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-16.58.05:028][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-16.58.05:033][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.10.14-16.58.05:057][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.14-16.58.05:059][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.14-16.58.05:066][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.14-16.58.05:171][  0]LogRenderer: Reallocating scene render targets to support 1232x704 Format 10 NumSamples 1 (Frame:1).
+[2021.10.14-16.58.05:324][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.10.14-16.58.05:324][  0]LogLoad: (Engine Initialization) Total time: 24.59 seconds
+[2021.10.14-16.58.05:324][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.14-16.58.05:335][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2021.10.14-16.58.05:335][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2021.10.14-16.58.05:335][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2021.10.14-16.58.05:336][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2021.10.14-16.58.05:336][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2021.10.14-16.58.05:356][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.14-16.58.05:388][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.14-16.58.05:503][  2]LogAssetRegistry: Asset discovery search completed in 18.3602 seconds
+[2021.10.14-16.58.05:505][  2]LogFlexEditor: FFlexEditorModule::OnFilesLoaded() ProjectFilePath = '../../../FlexProject/FlexProject.uproject'
+[2021.10.14-16.58.05:505][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.10.14-16.58.05:505][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2021.10.14-16.58.10:281][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.10.14-16.58.31:537][424]LogSlate: Window 'Message' being destroyed
+[2021.10.14-16.58.33:999][424]LogSlate: Window 'Message' being destroyed
+[2021.10.14-16.58.36:203][647]LogSlate: Window 'FlexProject - Unreal Editor' being destroyed
+[2021.10.14-16.58.36:565][648]Cmd: QUIT_EDITOR
+[2021.10.14-16.58.36:608][648]LogExit: Preparing to exit.
+[2021.10.14-16.58.37:453][648]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Content/' was aborted.
+[2021.10.14-16.58.37:566][648]LogExit: Editor shut down
+[2021.10.14-16.58.37:568][648]LogExit: Transaction tracking system shut down
+[2021.10.14-16.58.37:570][648]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000192cbba53f0, Size=48
+[2021.10.14-16.58.37:689][648]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2021.10.14-16.58.37:689][648]LogDirectoryWatcher: A directory notification for '../../../FlexProject/Content/' was aborted.
+[2021.10.14-16.58.37:689][648]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2021.10.14-16.58.37:689][648]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2021.10.14-16.58.37:689][648]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2021.10.14-16.58.37:690][648]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2021.10.14-16.58.37:690][648]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/LeapMotion/Content/' was aborted.
+[2021.10.14-16.58.37:690][648]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2021.10.14-16.58.37:690][648]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2021.10.14-16.58.37:789][648]LogExit: Object subsystem successfully closed.
+[2021.10.14-16.58.37:864][648]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.10.14-16.58.37:869][648]LogD3D11RHI: Shutdown
+[2021.10.14-16.58.37:870][648]LogD3D11RHI: CleanupD3DDevice
+[2021.10.14-16.58.37:872][648]LogD3D11RHI: ~FD3D11DynamicRHI
+[2021.10.14-16.58.37:882][648]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (576)
+[2021.10.14-16.58.37:882][648]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2021.10.14-16.58.37:882][648]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2021.10.14-16.58.37:882][648]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2021.10.14-16.58.37:882][648]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FeaturePacks/' was aborted.
+[2021.10.14-16.58.37:883][648]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2021.10.14-16.58.37:883][648]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2021.10.14-16.58.37:883][648]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2021.10.14-16.58.37:883][648]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Content/Collections/' was aborted.
+[2021.10.14-16.58.37:883][648]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Content/Developers/Mika/Collections/' was aborted.
+[2021.10.14-16.58.37:884][648]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects-Diplomska/UnrealEngine-FleX-4.19.2/FlexProject/Saved/Collections/' was aborted.
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2021.10.14-16.58.37:884][648]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2021.10.14-16.58.37:885][648]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2021.10.14-16.58.38:592][648]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2021.10.14-16.58.38:593][648]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2021.10.14-16.58.38:638][648]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2021.10.14-16.58.38:639][648]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2021.10.14-16.58.38:669][648]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2021.10.14-16.58.38:670][648]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2021.10.14-16.58.38:673][648]LogModuleManager: Shutting down and abandoning module FlexEditor (338)
+[2021.10.14-16.58.38:673][648]LogModuleManager: Shutting down and abandoning module RawInput (336)
+[2021.10.14-16.58.38:673][648]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.10.14-16.58.38:673][648]LogModuleManager: Shutting down and abandoning module HTML5Networking (334)
+[2021.10.14-16.58.38:673][648]LogModuleManager: Shutting down and abandoning module AlembicImporter (332)
+[2021.10.14-16.58.38:673][648]LogModuleManager: Shutting down and abandoning module AlembicLibrary (331)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module GeometryCache (330)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (329)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module DatasmithContent (324)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (322)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module PluginBrowser (320)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (318)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (316)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module CryptoKeys (314)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (312)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (310)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module UObjectPlugin (308)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (306)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (304)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module GitSourceControl (302)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module SourceControl (301)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (298)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (296)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (294)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (292)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module Paper2DEditor (290)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module MeshPaint (289)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (286)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (284)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module PhysXVehicles (282)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module OculusEditor (280)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (278)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (276)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (274)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module ActorSequence (272)
+[2021.10.14-16.58.38:674][648]LogModuleManager: Shutting down and abandoning module UdpMessaging (270)
+[2021.10.14-16.58.38:775][648]LogModuleManager: Shutting down and abandoning module TcpMessaging (268)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module OSVRInput (266)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module OSVR (264)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2021.10.14-16.58.38:875][648]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2021.10.14-16.58.38:876][648]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2021.10.14-16.58.38:876][648]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2021.10.14-16.58.38:876][648]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2021.10.14-16.58.38:876][648]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2021.10.14-16.58.38:876][648]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2021.10.14-16.58.38:877][648]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2021.10.14-16.58.38:877][648]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2021.10.14-16.58.38:877][648]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (236)
+[2021.10.14-16.58.38:877][648]LogModuleManager: Shutting down and abandoning module LiveLink (234)
+[2021.10.14-16.58.39:625][648]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2021.10.14-16.58.39:625][648]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2021.10.14-16.58.39:625][648]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2021.10.14-16.58.39:626][648]LogModuleManager: Shutting down and abandoning module Media (227)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module PacketHandler (224)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (222)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (220)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module MediaAssets (218)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module VREditor (212)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module StringTableEditor (210)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (208)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (206)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module FunctionalTesting (204)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (202)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (201)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module UMG (198)
+[2021.10.14-16.58.39:632][648]LogModuleManager: Shutting down and abandoning module UMGEditor (197)
+[2021.10.14-16.58.39:633][648]LogModuleManager: Shutting down and abandoning module Sequencer (196)
+[2021.10.14-16.58.39:633][648]LogModuleManager: Shutting down and abandoning module MessageLog (193)
+[2021.10.14-16.58.39:633][648]LogModuleManager: Shutting down and abandoning module SlateReflector (188)
+[2021.10.14-16.58.39:633][648]LogModuleManager: Shutting down and abandoning module Slate (186)
+[2021.10.14-16.58.39:633][648]LogModuleManager: Shutting down and abandoning module EditorStyle (184)
+[2021.10.14-16.58.39:634][648]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2021.10.14-16.58.39:634][648]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2021.10.14-16.58.39:634][648]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module Core (172)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module LevelSequence (170)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module KismetCompiler (168)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module MeshUtilities (166)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (165)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (164)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (155)
+[2021.10.14-16.58.39:635][648]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2021.10.14-16.58.40:069][648]LogDerivedDataCache: Shutdown
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2021.10.14-16.58.40:069][648]LogXGEController: Cleaning working directory: C:/Users/Mika/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2021.10.14-16.58.40:069][648]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (107)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (105)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (103)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (101)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (99)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (97)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (95)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (93)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (91)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (89)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (87)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (85)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (83)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (81)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (79)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (77)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (75)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module InputCore (72)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module Settings (70)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module PhysXCooking (68)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module SteamVR (66)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module OculusHMD (64)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module LeapMotion (62)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module GoogleVRHMD (60)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AppleARKit (56)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module AugmentedReality (53)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2021.10.14-16.58.40:070][648]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2021.10.14-16.58.40:071][648]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2021.10.14-16.58.40:071][648]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.10.14-16.58.40:071][648]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFC8874AF-49F2-6B10-1364-DE9B5CB02FCA%7D&AppID=UEEditor.UnrealEngine.Release&AppVersion=4.19.2-0%2B%2B%2BUE4%2BRelease-4.19&UserID=c41f128543104f47e78437945aaa6700%7C92febfaa186d424daed92473982fae20%7C4a46ad27-5204-4948-81a6-46e14289928a&AppEnvironment=datacollector-source&UploadType=eteventstream] status=Processing
+[2021.10.14-16.58.40:076][648]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module Flex (38)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2021.10.14-16.58.40:077][648]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2021.10.14-16.58.40:078][648]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2021.10.14-16.58.40:094][648]LogExit: Exiting.
+[2021.10.14-16.58.40:110][648]Log file closed, 10/14/21 18:58:40

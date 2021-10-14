@@ -1,0 +1,837 @@
+﻿Log file open, 06/14/20 13:50:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FlexProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2079489005) SRandInit(-2079489004).
+LogInit: Read version file with build ID 'd8eccd21-2ca9-432d-a920-8ec535e5cc71'
+LogInit: Registered custom module enumerator with build ID 'd8eccd21-2ca9-432d-a920-8ec535e5cc71'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.897293
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/Binaries/Win64/UE4Editor-GoogleVRHMD.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVR.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/OSVR/Binaries/Win64/UE4Editor-OSVRInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-Flex.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/GameWorks/Flex/Binaries/Win64/UE4Editor-FlexEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 0).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 0).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin OSVR
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin Flex
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/GameWorks/Flex/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/GameWorks/Flex/Shaders to virtual directory /Plugin/Flex
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.796s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Mika-PC (25.92.36.57:0)
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.19-CL-0
+LogInit: Engine Version: 4.19.2-0+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-0+++UE4+Release-4.19
+LogInit: Net CL: 0
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  5 2020 17:39:17
+LogInit: Compiled with Visual C++: 19.00.24234.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/UnrealEngine-FleX-4.19.2/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.06.14-11.50.21:646][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.14-11.50.21:646][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.14-11.50.21:772][  0]LogInit: Computer: MIKA-PC
+[2020.06.14-11.50.21:772][  0]LogInit: User: Mika
+[2020.06.14-11.50.21:772][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.06.14-11.50.21:772][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.14-11.50.21:773][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.06.14-11.50.21:773][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.14-11.50.21:773][  0]LogMemory: Process Physical Memory: 279.14 MB used, 279.14 MB peak
+[2020.06.14-11.50.21:773][  0]LogMemory: Process Virtual Memory: 273.47 MB used, 273.47 MB peak
+[2020.06.14-11.50.21:773][  0]LogMemory: Physical Memory: 6755.52 MB used,  9576.75 MB free, 16332.27 MB total
+[2020.06.14-11.50.21:773][  0]LogMemory: Virtual Memory: 4847.99 MB used,  9576.75 MB free, 134217728.00 MB total
+[2020.06.14-11.50.22:443][  0]LogInit: Using OS detected language (en-US).
+[2020.06.14-11.50.22:443][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.14-11.50.22:639][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.14-11.50.23:427][  0]LogStreaming: Display: Took  0.977s to EndInitTextLocalization.
+[2020.06.14-11.50.23:482][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.14-11.50.23:918][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.14-11.50.23:918][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.14-11.50.24:722][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.14-11.50.24:844][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.06.14-11.50.24:844][  0]LogD3D11RHI:       8079/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.06.14-11.50.24:846][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.14-11.50.24:846][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.14-11.50.24:846][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.14-11.50.24:856][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.14-11.50.24:856][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.14-11.50.24:856][  0]LogWindows: EnumDisplayDevices:
+[2020.06.14-11.50.24:857][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.06.14-11.50.24:857][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.06.14-11.50.24:857][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.06.14-11.50.24:857][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.14-11.50.24:857][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.06.14-11.50.24:857][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.06.14-11.50.24:857][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.06.14-11.50.24:857][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.06.14-11.50.24:857][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.06.14-11.50.24:920][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.06.14-11.50.24:920][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.06.14-11.50.24:920][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.14-11.50.25:174][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.14-11.50.25:414][  0]LogFlex: Display: Initialized Flex with GPU: NVIDIA GeForce GTX 1080
+[2020.06.14-11.50.25:431][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (../../../FlexProject/Intermediate/Shaders/WorkingDirectory/9368/).
+[2020.06.14-11.50.25:431][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Mika/AppData/Local/Temp/UnrealShaderWorkingDir/081B1B6E40C933A5383026B0FE66793C/'.
+[2020.06.14-11.50.26:045][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.06.14-11.50.26:062][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.06.14-11.50.26:075][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.06.14-11.50.26:089][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.06.14-11.50.26:115][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.06.14-11.50.26:128][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.06.14-11.50.26:142][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.06.14-11.50.26:156][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.06.14-11.50.26:163][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.06.14-11.50.26:176][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.06.14-11.50.26:188][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.06.14-11.50.26:202][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.06.14-11.50.26:214][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.06.14-11.50.26:227][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.06.14-11.50.26:240][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.06.14-11.50.26:266][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.06.14-11.50.26:266][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.06.14-11.50.26:293][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.06.14-11.50.26:296][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.06.14-11.50.26:417][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.06.14-11.50.26:428][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.06.14-11.50.26:429][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.14-11.50.27:063][  0]LogXGEController: Cleaning working directory: C:/Users/Mika/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.06.14-11.50.27:064][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.14-11.50.27:096][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.14-11.50.27:096][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.14-11.50.28:676][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.14-11.50.29:765][  0]LogDerivedDataCache: Loaded boot cache 1.07s 76MB ../../../FlexProject/DerivedDataCache/Boot.ddc.
+[2020.06.14-11.50.29:765][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../FlexProject/DerivedDataCache/Boot.ddc
+[2020.06.14-11.50.29:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../FlexProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.14-11.50.29:765][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.14-11.50.29:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.14-11.50.29:765][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2020.06.14-11.50.29:778][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2020.06.14-11.50.29:778][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.14-11.50.29:778][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.14-11.50.29:915][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.14-11.50.29:972][  0]LogSlate: Using Freetype 2.6.0
+[2020.06.14-11.50.30:024][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.14-11.50.30:024][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.14-11.50.34:671][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2020.06.14-11.50.43:634][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.14-11.50.44:995][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.14-11.50.44:995][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.06.14-11.50.44:995][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.06.14-11.50.44:995][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.14-11.50.44:995][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.06.14-11.50.44:995][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.14-11.50.45:431][  0]LogNetVersion: FlexProject , NetCL: 0, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2459518851)
+[2020.06.14-11.50.49:476][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.092765 seconds
+[2020.06.14-11.50.49:503][  0]LogUObjectArray: 37715 objects as part of root set at end of initial load.
+[2020.06.14-11.50.49:503][  0]LogUObjectAllocator: 7514712 out of 0 bytes used by permanent object pool.
+[2020.06.14-11.50.49:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.14-11.50.55:146][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.14-11.50.55:146][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:147][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:147][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:148][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:148][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png' error.
+[2020.06.14-11.50.55:148][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_24x.png
+[2020.06.14-11.50.55:148][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:148][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:148][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png' error.
+[2020.06.14-11.50.55:148][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Linux/Platform_Linux_128x.png
+[2020.06.14-11.50.55:149][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.14-11.50.55:149][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.14-11.50.55:149][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:149][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:149][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:149][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:149][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2020.06.14-11.50.55:149][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.06.14-11.50.55:150][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.06.14-11.50.55:150][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.50.55:151][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2020.06.14-11.50.55:151][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2020.06.14-11.51.12:180][  0]OSVREntryPointLog: Display: OSVR client context could not connect. Most likely the server isn't running. Treating this as if the HMD is not connected.
+[2020.06.14-11.51.12:246][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.14-11.51.12:287][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.14-11.51.13:285][  0]SourceControl: Source control is disabled
+[2020.06.14-11.51.13:285][  0]SourceControl: Source control is disabled
+[2020.06.14-11.51.13:371][  0]SourceControl: Source control is disabled
+[2020.06.14-11.51.13:406][  0]SourceControl: Source control is disabled
+[2020.06.14-11.51.14:812][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.14-11.51.15:088][  0]LogOcInput: OculusInput pre-init called
+[2020.06.14-11.51.15:698][  0]LogEngine: Initializing Engine...
+[2020.06.14-11.51.15:925][  0]LogInstantPreview: Warning: Adb Not Detected.  Please set the ANDROID_HOME environment variable to your Android SDK directory and restart the Unreal editor.
+[2020.06.14-11.51.15:925][  0]LogHMD: GoogleVR API created
+[2020.06.14-11.51.15:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.14-11.51.15:944][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.14-11.51.16:851][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.14-11.51.17:001][  0]LogInit: XAudio2 using 'Realtek Digital Output (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.06.14-11.51.17:018][  0]LogInit: FAudioDevice initialized.
+[2020.06.14-11.51.17:161][  0]LogDerivedDataCache: Saved boot cache 0.14s 76MB ../../../FlexProject/DerivedDataCache/Boot.ddc.
+[2020.06.14-11.51.17:166][  0]LogInit: Texture streaming: Enabled
+[2020.06.14-11.51.17:490][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.14-11.51.17:688][  0]LogInit: Transaction tracking system initialized
+[2020.06.14-11.51.18:409][  0]BlueprintLog: New page: Editor Load
+[2020.06.14-11.51.19:724][  0]LocalizationService: Localization service is disabled
+[2020.06.14-11.51.20:494][  0]LogConsoleResponse: Display: 
+[2020.06.14-11.51.22:894][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine-FleX-4.19.2/FlexProject/Content/' took 0.02s
+[2020.06.14-11.51.22:894][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.14-11.51.22:894][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.14-11.51.22:895][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.06.14-11.51.22:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.06.14-11.51.22:895][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.06.14-11.51.27:188][  0]SourceControl: Source control is disabled
+[2020.06.14-11.51.27:231][  0]Cmd: MAP LOAD FILE="../../../FlexProject/Content/Maps/flexSoftTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.14-11.51.27:260][  0]LightingResults: New page: Lighting Build
+[2020.06.14-11.51.27:442][  0]MapCheck: New page: Map Check
+[2020.06.14-11.51.27:442][  0]LightingResults: New page: Lighting Build
+[2020.06.14-11.51.31:980][  0]LogAIModule: Creating AISystem for world flexSoftTestMap
+[2020.06.14-11.51.32:481][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.14-11.51.32:541][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.14-11.51.32:584][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.693ms to complete.
+[2020.06.14-11.51.32:584][  0]LogFileHelpers: Loading map 'flexSoftTestMap' took 5.377
+[2020.06.14-11.51.33:824][  0]LogCollectionManager: Loaded 0 collections in 0.001572 seconds
+[2020.06.14-11.51.33:969][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine-FleX-4.19.2/FlexProject/Saved/Collections/' took 0.01s
+[2020.06.14-11.51.33:969][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine-FleX-4.19.2/FlexProject/Content/Developers/Mika/Collections/' took 0.01s
+[2020.06.14-11.51.33:969][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealEngine-FleX-4.19.2/FlexProject/Content/Collections/' took 0.01s
+[2020.06.14-11.51.33:969][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.06.14-11.51.33:994][  0]LogContentBrowser: Native class hierarchy populated in 0.0231 seconds. Added 2508 classes and 572 folders.
+[2020.06.14-11.51.34:060][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.14-11.51.34:733][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.06.14-11.51.34:827][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.06.14-11.51.35:270][  0]LogSlate: Took 0.008172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.14-11.51.35:294][  0]LogSlate: Took 0.021301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.14-11.51.35:369][  0]LogSlate: Took 0.028681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.14-11.51.35:707][  0]LogRenderer: Reallocating scene render targets to support 1228x624 Format 10 NumSamples 1 (Frame:1).
+[2020.06.14-11.51.36:371][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.14-11.51.36:371][  0]LogLoad: (Engine Initialization) Total time: 92.03 seconds
+[2020.06.14-11.51.36:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.14-11.51.36:395][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.06.14-11.51.36:395][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.06.14-11.51.36:395][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.06.14-11.51.36:395][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.06.14-11.51.36:395][  0]LogRawInputWindows: VenderID:45e ProductID:28e
+[2020.06.14-11.51.36:395][  0]LogRawInputWindows: Device was registered succesfully and is connected (Usage:5 UsagePage:1)
+[2020.06.14-11.51.36:492][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.14-11.51.36:741][  2]LogSlate: Took 0.010889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.14-11.51.36:779][  3]LogAssetRegistry: Asset discovery search completed in 62.1309 seconds
+[2020.06.14-11.51.36:801][  3]LogFlexEditor: FFlexEditorModule::OnFilesLoaded() ProjectFilePath = '../../../FlexProject/FlexProject.uproject'
+[2020.06.14-11.51.36:801][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.06.14-11.51.36:801][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.06.14-11.51.39:393][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.06.14-11.51.44:222][726]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.14-11.51.44:321][726]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abf1416c0, Size=24, Default__flexRadialForce_C Function /Game/TestPackages/Flex/flexRadialForce.flexRadialForce_C:ExecuteUbergraph_flexRadialForce
+[2020.06.14-11.51.44:462][726]LogAIModule: Creating AISystem for world radforce-test
+[2020.06.14-11.51.44:549][726]Cmd: MAP LOAD FILE="../../../FlexProject/Content/Maps/testMaps/radforce-test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.14-11.51.44:549][726]LightingResults: New page: Lighting Build
+[2020.06.14-11.51.44:550][726]LoadErrors: New page: Loading map: radforce-test.umap
+[2020.06.14-11.51.44:560][726]MapCheck: New page: Map Check
+[2020.06.14-11.51.44:560][726]LightingResults: New page: Lighting Build
+[2020.06.14-11.51.44:616][726]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.14-11.51.44:659][726]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.14-11.51.44:703][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 43.759ms to complete.
+[2020.06.14-11.51.44:703][726]LogFileHelpers: Loading map 'radforce-test' took 0.163
+[2020.06.14-11.56.33:050][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abbc79bc0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2020.06.14-11.56.33:114][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025abbc79bc0, Size=72
+[2020.06.14-11.56.33:114][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025aa7664e50, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2020.06.14-11.56.33:133][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025a96369da0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2020.06.14-11.56.33:499][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025a963f9600, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2020.06.14-11.56.33:519][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025a963f9600, Size=664
+[2020.06.14-11.56.33:520][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abc891900, Size=664, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_8:ExecuteUbergraph_FirstPersonCharacter
+[2020.06.14-11.56.33:527][180]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.06.14-11.56.33:529][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abf293400, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2020.06.14-11.56.33:531][180]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0389.18] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 24 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2020.06.14-11.56.33:718][180]LogSkeletalMesh: Skeletal Mesh found in DDC [24.893499ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.06.14-11.56.34:519][180]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2020.06.14-11.56.34:949][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025a9f287380, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.06.14-11.56.34:950][180]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025a9f287378, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2020.06.14-11.56.36:035][180]LogSlate: Took 0.023735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.14-11.56.36:453][181]LogSlate: Took 0.012242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.06.14-11.56.37:938][339]LogRenderer: Reallocating scene render targets to support 1228x744 Format 10 NumSamples 1 (Frame:1).
+[2020.06.14-11.56.38:629][410]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.06.14-11.56.38:678][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025abf293400, Size=664
+[2020.06.14-11.56.38:678][410]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abc892e00, Size=664, FirstPersonCharacter_C_2 Function /Engine/Transient.REINST_FirstPersonCharacter_C_24:ExecuteUbergraph_FirstPersonCharacter
+[2020.06.14-11.56.38:685][410]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.06.14-11.56.38:687][410]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abf292e00, Size=664, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2020.06.14-11.56.39:057][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025abc891900, Size=664
+[2020.06.14-11.56.39:057][410]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025aa7664e50, Size=72
+[2020.06.14-11.56.39:078][410]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0394.73] Compile of FirstPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 448 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2020.06.14-11.56.47:344][359]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.06.14-11.56.47:951][359]LogSkeletalMesh: Skeletal Mesh found in DDC [53.326599ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.06.14-11.56.48:084][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025aed4ed360, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2020.06.14-11.56.48:089][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025aed4ed360, Size=52
+[2020.06.14-11.56.48:089][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025aed4ed360, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_26:ExecuteUbergraph_FirstPersonHUD
+[2020.06.14-11.56.48:092][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025aed4ee4a8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2020.06.14-11.56.48:623][359]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.06.14-11.56.48:723][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025aed4ed360, Size=52
+[2020.06.14-11.56.48:732][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025abc892e00, Size=664
+[2020.06.14-11.57.00:627][359]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.14-11.57.00:665][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025abf292e00, Size=664
+[2020.06.14-11.57.00:665][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025abc891900, Size=664, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_30:ExecuteUbergraph_FirstPersonCharacter
+[2020.06.14-11.57.00:666][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025a96369da0, Size=72
+[2020.06.14-11.57.00:666][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025ab85f6110, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_1:ExecuteUbergraph_FirstPerson_AnimBP
+[2020.06.14-11.57.00:668][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025aed4ee4a8, Size=52
+[2020.06.14-11.57.00:668][359]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025a9f1fa898, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_36:ExecuteUbergraph_FirstPersonHUD
+[2020.06.14-11.57.03:633][359]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.06.14-11.57.03:672][359]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.06.14-11.57.03:679][359]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.06.14-11.57.03:707][359]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.06.14-11.57.03:712][359]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin_Arms...
+[2020.06.14-11.57.03:740][359]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2020.06.14-11.57.03:745][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:769][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:769][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:769][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:769][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:769][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:769][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:769][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:769][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:769][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:772][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:776][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:776][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:776][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:776][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:776][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:776][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:776][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:776][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:776][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:778][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:781][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:781][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:781][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:781][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:781][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:781][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:781][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:781][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:781][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:783][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:786][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:786][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:786][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:786][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:786][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:786][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:786][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:786][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:786][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:788][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:791][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:791][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:791][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:791][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:791][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:791][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:791][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:791][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:791][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:793][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:796][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:796][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:796][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:796][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:796][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:796][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:796][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:796][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:796][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:798][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:801][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:801][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:801][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:801][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:801][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:801][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:801][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:801][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:801][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:803][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:806][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:806][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:806][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:806][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:806][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:806][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:806][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:806][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:806][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:808][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:811][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:811][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:811][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:811][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:811][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:811][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:811][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:811][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:811][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:813][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:816][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:816][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:816][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:816][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:816][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:816][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:816][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:816][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:816][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:818][359]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2020.06.14-11.57.03:821][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:821][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:821][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:821][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:821][359]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.06.14-11.57.03:821][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:821][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:821][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:821][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:856][359]LogStaticMesh: Building static mesh FirstPersonProjectileMesh...
+[2020.06.14-11.57.03:871][359]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/Meshes/FirstPersonProjectileMesh.FirstPersonProjectileMesh
+[2020.06.14-11.57.03:888][359]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2020.06.14-11.57.03:902][359]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.06.14-11.57.03:906][359]LogSkeletalMesh: Building Skeletal Mesh SK_FPGun...
+[2020.06.14-11.57.03:919][359]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2020.06.14-11.57.03:924][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:928][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:928][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:928][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:928][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:928][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:928][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:928][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:928][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:930][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:934][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:934][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:934][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:934][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:934][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:934][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:934][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:934][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:936][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:939][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:939][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:939][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:939][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:939][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:939][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:939][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:939][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:941][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:945][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:945][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:945][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:945][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:945][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:945][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:945][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:945][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:947][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:950][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:950][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:950][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:950][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:950][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:950][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:950][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:950][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:952][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:955][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:955][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:955][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:955][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:955][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:955][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:955][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:955][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:958][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:961][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:961][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:961][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:961][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:961][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:961][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:961][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:961][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:963][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:966][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:966][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:966][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:966][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:966][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:966][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:966][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:966][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:968][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:971][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:971][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:971][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:971][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:971][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:971][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:971][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:972][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.03:974][359]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2020.06.14-11.57.03:977][359]LogMaterial: Warning: F:\UnrealEngine-FleX-4.19.2\FlexProject\Content\FirstPerson\FPWeapon\Materials\M_FPGun.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.06.14-11.57.03:977][359]LogMaterial: 	Missing Material Function
+[2020.06.14-11.57.03:977][359]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.06.14-11.57.03:977][359]LogMaterial: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2020.06.14-11.57.03:977][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.06.14-11.57.03:977][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.06.14-11.57.03:977][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.06.14-11.57.03:977][359]LogMaterial: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.06.14-11.57.49:580][359]LogStats: FPlatformStackWalk::StackWalkAndDump - 44.544 s
+[2020.06.14-11.57.49:580][359]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: 
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:F:\UnrealEngine-FleX-4.19.2\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2332]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: 
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: Stack: 
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000009EBCBC6 UE4Editor-Core.dll!FWindowsPlatformStackWalk::StackWalkAndDump() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\private\windows\windowsplatformstackwalk.cpp:234]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000009C20E0A UE4Editor-Core.dll!FDebug::EnsureFailed() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\private\misc\assertionmacros.cpp:299]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000009C31CF6 UE4Editor-Core.dll!FDebug::OptionallyLogFormattedEnsureMessageReturningFalse() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\private\misc\assertionmacros.cpp:430]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000007D98382 UE4Editor-UnrealEd.dll!ObjectTools::ForceDeleteObjects() [f:\unrealengine-flex-4.19.2\engine\source\editor\unrealed\private\objecttools.cpp:2332]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000007575CA9 UE4Editor-UnrealEd.dll!FAssetDeleteModel::DoForceDelete() [f:\unrealengine-flex-4.19.2\engine\source\editor\unrealed\private\assetdeletemodel.cpp:316]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000077FD282 UE4Editor-UnrealEd.dll!SDeleteAssetsDialog::ForceDelete() [f:\unrealengine-flex-4.19.2\engine\source\editor\unrealed\private\dialogs\sdeleteassetsdialog.cpp:717]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000007783D92 UE4Editor-UnrealEd.dll!TMemberFunctionCaller<SDeleteAssetsDialog,FReply (__cdecl SDeleteAssetsDialog::*)(void) __ptr64>::operator()<>() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:156]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000007786DA9 UE4Editor-UnrealEd.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SDeleteAssetsDialog,FReply (__cdecl SDeleteAssetsDialog::*)(void) __ptr64> >() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\templates\tuple.h:498]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000077F5A65 UE4Editor-UnrealEd.dll!TBaseSPMethodDelegateInstance<0,SDeleteAssetsDialog,0,FReply __cdecl(void)>::Execute() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000090D32C7 UE4Editor-Slate.dll!TBaseDelegate<FReply>::Execute() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000090F9918 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:282]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F1522C UE4Editor-Slate.dll!<lambda_1002768c627006711ef2f351a87ec0e7>::operator()() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5440]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008EE81E5 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:266]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F85BC7 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5429]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F6D7DD UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5927]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F5F642 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5907]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000002BB8E69B UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1726]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000002BB81B78 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2172]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000002BB9052C UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:889]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000002BB7D679 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:726]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000005BE85C0D USER32.dll!UnknownFunction []
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000005BE85602 USER32.dll!UnknownFunction []
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x000000002BB915C9 UE4Editor-ApplicationCore.dll!FWindowsApplication::PumpMessages() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2184]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F910E9 UE4Editor-Slate.dll!FSlateApplication::TickPlatform() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:1686]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F1F7A2 UE4Editor-Slate.dll!FSlateApplication::AddModalWindow() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:2190]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000007887BB9 UE4Editor-UnrealEd.dll!UEditorEngine::EditorAddModalWindow() [f:\unrealengine-flex-4.19.2\engine\source\editor\unrealed\private\editorengine.cpp:4067]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000007D8E5FC UE4Editor-UnrealEd.dll!ObjectTools::DeleteObjects() [f:\unrealengine-flex-4.19.2\engine\source\editor\unrealed\private\objecttools.cpp:1845]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF35892D UE4Editor-ContentBrowser.dll!ContentBrowserUtils::DeleteFolders() [f:\unrealengine-flex-4.19.2\engine\source\editor\contentbrowser\private\contentbrowserutils.cpp:585]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF360D16 UE4Editor-ContentBrowser.dll!FAssetContextMenu::ExecuteDeleteFolderConfirmed() [f:\unrealengine-flex-4.19.2\engine\source\editor\contentbrowser\private\assetcontextmenu.cpp:1979]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF2D3C1E UE4Editor-ContentBrowser.dll!TMemberFunctionCaller<FAssetContextMenu,FReply (__cdecl FAssetContextMenu::*)(void) __ptr64>::operator()<>() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:156]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF2D71D9 UE4Editor-ContentBrowser.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<FAssetContextMenu,FReply (__cdecl FAssetContextMenu::*)(void) __ptr64> >() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\templates\tuple.h:498]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF35CEC5 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,FAssetContextMenu,0,FReply __cdecl(void)>::Execute() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF35AA87 UE4Editor-ContentBrowser.dll!TBaseDelegate<FReply>::Execute() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF3B8579 UE4Editor-ContentBrowser.dll!SContentBrowserConfirmPopup::YesClicked() [f:\unrealengine-flex-4.19.2\engine\source\editor\contentbrowser\private\contentbrowserutils.cpp:255]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF2D3F92 UE4Editor-ContentBrowser.dll!TMemberFunctionCaller<SContentBrowserConfirmPopup,FReply (__cdecl SContentBrowserConfirmPopup::*)(void) __ptr64>::operator()<>() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstanceinterface.h:156]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF2D74A9 UE4Editor-ContentBrowser.dll!UE4Tuple_Private::TTupleImpl<TIntegerSequence<unsigned int> >::ApplyAfter<TMemberFunctionCaller<SContentBrowserConfirmPopup,FReply (__cdecl SContentBrowserConfirmPopup::*)(void) __ptr64> >() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\templates\tuple.h:498]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000EF35DBD5 UE4Editor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowserConfirmPopup,0,FReply __cdecl(void)>::Execute() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegateinstancesimpl.h:269]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000090D32C7 UE4Editor-Slate.dll!TBaseDelegate<FReply>::Execute() [f:\unrealengine-flex-4.19.2\engine\source\runtime\core\public\delegates\delegatesignatureimpl.inl:537]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x00000000090F9918 UE4Editor-Slate.dll!SButton::OnMouseButtonUp() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\widgets\input\sbutton.cpp:282]
+[2020.06.14-11.57.49:581][359]LogOutputDevice: Error: [Callstack] 0x0000000008F1522C UE4Editor-Slate.dll!<lambda_1002768c627006711ef2f351a87ec0e7>::operator()() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5440]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x0000000008EE81E5 UE4Editor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_1002768c627006711ef2f351a87ec0e7> >() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:266]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x0000000008F85BC7 UE4Editor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5429]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x0000000008F6D7DD UE4Editor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5927]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x0000000008F5F642 UE4Editor-Slate.dll!FSlateApplication::OnMouseUp() [f:\unrealengine-flex-4.19.2\engine\source\runtime\slate\private\framework\application\slateapplication.cpp:5907]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000002BB8E69B UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:1726]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000002BB81B78 UE4Editor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:2172]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000002BB9052C UE4Editor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:889]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000002BB7D679 UE4Editor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsapplication.cpp:726]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000005BE85C0D USER32.dll!UnknownFunction []
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000005BE85602 USER32.dll!UnknownFunction []
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000002BB91666 UE4Editor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [f:\unrealengine-flex-4.19.2\engine\source\runtime\applicationcore\private\windows\windowsplatformapplicationmisc.cpp:129]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000004F6C5475 UE4Editor.exe!FEngineLoop::Tick() [f:\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launchengineloop.cpp:3269]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000004F6D6BD0 UE4Editor.exe!GuardedMain() [f:\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\launch.cpp:166]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000004F6D6C4A UE4Editor.exe!GuardedMainWrapper() [f:\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\windows\launchwindows.cpp:144]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000004F6E4187 UE4Editor.exe!WinMain() [f:\unrealengine-flex-4.19.2\engine\source\runtime\launch\private\windows\launchwindows.cpp:223]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000004F6E5B97 UE4Editor.exe!__scrt_common_main_seh() [f:\dd\vctools\crt\vcstartup\src\startup\exe_common.inl:253]
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000005D2C7BD4 KERNEL32.DLL!UnknownFunction []
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: [Callstack] 0x000000005D66CE51 ntdll.dll!UnknownFunction []
+[2020.06.14-11.57.49:582][359]LogOutputDevice: Error: 
+[2020.06.14-11.57.49:586][359]LogStats:                SubmitErrorReport -  0.000 s
